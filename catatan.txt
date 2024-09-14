@@ -1,6 +1,3 @@
-learning path basic yang kubutuhkan
+mencoba untuk melakukan sedikit aksi dengan memakai data dari tiketpesawat.json
 
-1. data berupa json
-
-prompt :
-buatkan data berupa json. stuktur data nested, tentang data tiket pesawat. satu ticket bikin 10 entitas, dan salah satu entitas harus memiliki 4 nested data 
+aksi nya hanya sebuah filter melalui parameter yang dikirmkan.
