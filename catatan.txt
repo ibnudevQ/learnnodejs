@@ -1,3 +1,0 @@
-mencoba untuk melakukan sedikit aksi dengan memakai data dari tiketpesawat.json
-
-aksi nya hanya sebuah filter melalui parameter yang dikirmkan.
