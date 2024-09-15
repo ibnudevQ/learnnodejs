@@ -1,0 +1,14 @@
+menerapkan konsep dasar programming
+
+
+CRUD
+Create
+Read
+Update 
+Delete
+
+command git
+    
+    git add --all -- ':!node_modules' // untuk menambahkan semua file, kecuali 1 file
+    git add -u // untuk menambahkan semua file yang modified
+    
